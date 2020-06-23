@@ -1,7 +1,7 @@
 # flask cache
 __pycache__
 
-databse
+database
 temp
 # vscode settings
 .vscode
@@ -9,3 +9,9 @@ temp
 *.log
 # we don't want our database credentials uploaded
 password.py
+
+# webstorm
+
+.idea
+
+diysatellite/.env

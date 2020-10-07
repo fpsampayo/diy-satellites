@@ -9,6 +9,7 @@ djangorestframework==3.11.0
 djangorestframework-gis==0.15
 idna==2.10
 itsdangerous==1.1.0
+gunicorn==20.0.4
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 psycopg2==2.8.5
